@@ -8,9 +8,9 @@
 
 <span style="color:skyblue">**1-JavaScript**</span>
 
-<span style="color:skyblue">**2-Node JS**</span>
+<span style="color:skyblue">**2-Node JS**</span> [(link)](https://nodejs.org/en/)
 
-<span style="color:skyblue">**3-Inquirer JS**</span>
+<span style="color:skyblue">**3-Inquirer JS**</span> [(link)](https://www.npmjs.com/package//inquirer)
 
 ## <span style="color:violet">Video Tutorial</span>
 
