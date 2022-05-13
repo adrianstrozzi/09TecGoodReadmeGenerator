@@ -14,7 +14,7 @@
 
 ## <span style="color:violet">Video Tutorial</span>
 
-Use this **link** to access a video tutorial: [Adrian Strozzi - Good Readme Generator]()
+Use this **link** to access a video tutorial: [Adrian Strozzi - Good Readme Generator](video link)
 
 ## <span style="color:violet">Usage</span>
 
