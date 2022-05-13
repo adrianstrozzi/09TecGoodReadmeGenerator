@@ -80,7 +80,7 @@ inquirer
   .then((answers) => {
     const readmeContent = createReadme(answers);
 
-    fs.writeFile('./readme/README.md', readmeContent, (err) =>
-      err ? console.log(err) : console.log('Successfully created README.md file at readme folder!')
+    fs.writeFile('./document/README.md', readmeContent, (err) =>
+      err ? console.log(err) : console.log('Successfully created README.md file document folder!')
     );
   });
