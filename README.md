@@ -33,7 +33,7 @@ Below is an example of a created **README.md file**:
 
 First download this app as a `Zip file` extract it and open it in VS Code or you preferred code editor.
 
-Go to the root folder and `Inquirer` with npm install:
+Go to the root folder and install `Inquirer` with npm install:
 
 ![mainpage](./images/npminstall.png)
 

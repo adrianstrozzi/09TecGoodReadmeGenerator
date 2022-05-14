@@ -26,7 +26,7 @@ const createReadme = ({ title, description, url, author, github, stack, install,
 
   -${install}
 
-  ## <span style="color:violet">Technologies Used</span>
+  ## <span style="color:violet">Stack</span>
 
   <span style="color:skyblue">**-${stack}**</span>
   
