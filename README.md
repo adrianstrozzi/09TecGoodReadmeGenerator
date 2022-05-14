@@ -49,9 +49,9 @@ Once you answer a couple of questions you will get a `confirmation`:
 
 ![mainpage](./images/confirmation.png)
 
-Your new `README file` will be generated at the readme folder:
+Your new `README file` will be generated at the document folder:
 
-![mainpage](./images/readmefolder.png)
+![mainpage](./images/documentfolder.png)
 
 ## <span style="color:violet">Credits</span>
 
