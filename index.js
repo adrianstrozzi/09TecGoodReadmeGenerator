@@ -44,7 +44,7 @@ const createReadme = ({ title, description, url, author, github, stack, install,
   
   ## <span style="color:violet">GitHub</span>
   
-  **${author}: **[${github}](${github})
+  **${author}:** [${github}](${github})
 
   ## <span style="color:violet">E-mail</span>
   
