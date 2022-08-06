@@ -23,7 +23,7 @@
 
 ## <span style="color:violet">Tutorial</span>
 
-Use this `link` to access a video tutorial: [Adrian Strozzi - Good Readme Generator](https://drive.google.com/file/d/1jfGz8Xs4U8RkGF-7WY0VY_lAHDw_tWhm/view?usp=sharing)
+Use this `link` to access a video tutorial: [Adrian Strozzi - Good Readme Generator](https://youtu.be/B7qsSupmId0)
 
 ## <span style="color:violet">Usage</span>
 
